@@ -13,3 +13,5 @@
     $sth->bindParam(':other_information', $other_information, PD0::PARAM_STR);
 
     $sth->execute();
+
+
